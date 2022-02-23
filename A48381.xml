@@ -1,0 +1,974 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd in the Cathedral-Church at Ely, July the 24th, 1698 on occasion of His Majesty's proclamation against atheism, and profaneness, &amp;c / by Charles Lidgould ...</title>
+            <author>Lidgold, Charles, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48381</idno>
+            <idno type="STC">Wing L1978</idno>
+            <idno type="STC">ESTC R15964</idno>
+            <idno type="EEBO-CITATION">12393132</idno>
+            <idno type="OCLC">ocm 12393132</idno>
+            <idno type="VID">61055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd in the Cathedral-Church at Ely, July the 24th, 1698 on occasion of His Majesty's proclamation against atheism, and profaneness, &amp;c / by Charles Lidgould ...</title>
+                  <author>Lidgold, Charles, d. 1701.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Wild ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Atheism --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61055:1"/>
+            <p>A SERMON PREACH'D In the CATHEDRAL-CHURCH AT ELY. <hi>July</hi>
+the 24th, 1698. On Occaſion of His Majeſty's <hi>Pro<g ref="char:EOLhyphen"/>clamation</hi>
+againſt <hi>Atheiſm,</hi> and <hi>Profaneneſs,</hi> &amp;c.</p>
+            <p>By <hi>Charles Lidgould,</hi> late Fellow of <hi>Clare-Hall,</hi>
+and Reader at the <hi>Charter-Houſe:</hi> Now Rector of <hi>Dunsby</hi> in
+<hi>Lincolnſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Joſeph Wild,</hi> at the
+<hi>Elephant</hi> at <hi>Charing-Croſs,</hi> 1699.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:61055:2"/>
+            <pb facs="tcp:61055:2"/>
+            <head>A PREFACE.</head>
+            <p>THIS Diſcourſe, had I been fond of its appea<g ref="char:EOLhyphen"/>ring in Print,
+had been more ſeaſonably Pub<g ref="char:EOLhyphen"/>liſh'd, when it was firſt brought forth,
+which was ſoon after the Iſſuing out <hi>His Majeſty's Proclamation
+againſt Atheiſm and Profaneneſs.</hi> 'Tho indeed, the ſuppreſſion
+hereof being a new recommended by the King in his late <hi>Speech</hi> to the
+farther Conſidera<g ref="char:EOLhyphen"/>tion of this preſent Parliament affords no unfit
+Occaſion even now to the Publiſhing a Diſcourſe of this Nature. It was
+intruth Calculated for the City, where, ſome buſi<g ref="char:EOLhyphen"/>neſs calling me thither
+laſt Year, I had Friends, who I knew, would expect I ſhould give them a
+Sermon: And I might at the ſame time have prevail'd with ſome to de<g ref="char:EOLhyphen"/>ſire
+a Publication of it, that ſo it might have come abroad with the Advantage of
+being Publiſhed at their Requeſt and Importunity. But waving this, I
+brought it ſafe off to <hi>Ely,</hi> where I had an opportunity (and that but
+very accidental) of Preaching it again. All which I thought proper to be here
+mentioned, that nothing of it might appear to be levell'd principally againſt
+any of that Auditory, where<g ref="char:EOLhyphen"/>in it had the Honour to be deliver'd, the Lord
+Biſhop of <hi>Ely</hi> himſelf heing preſent. Whoſe Memory (to which I
+thought fit to appeal by ſubmitting it to his Lordſhip's view before I
+would commit it to the Preſs) is both able and ready to juſtifie me, that
+there was nothing then <pb facs="tcp:61055:3"/>Preach'd that is not here Printed, nor any
+thing here Printed (bating what you may find in the Margin) that was not then
+Preached. From whom if it had the good fortune to gain any Approbation, I am
+not much concern'd how many it diſpleas'd beſide: The good Opinion of ſo
+great and worthy a Perſon being ſufficient to clear it, a<g ref="char:EOLhyphen"/>mong all that are
+indifferent and unbyaſs'd, from any un<g ref="char:EOLhyphen"/>ſeemly or indiſcreet Glances. Tho'
+for the ſake of ſeveral to whom I owe a very juſt reſpect, I could
+heartily wiſh it had <hi>appear'd</hi> as <hi>inoffenſive</hi> as it was
+<hi>really in<g ref="char:EOLhyphen"/>nocent.</hi> And, to ſay truth, one Reaſon, that now brings
+it to open View, is the hope that it may upon Re-exami<g ref="char:EOLhyphen"/>nation be acquitted of
+any unhandſome Reflections; to which Charge the firſt hearing did it
+ſeems, expoſe it. How juſtly, I now leave to thoſe, who then heard it,
+and all others, who ſhall be at the pains of reading it, to judge. For my own
+part, I know nothing herein mention'd that gave any Offence, which the
+Hiſtory, I am engaged in, did not ſo plainly ſuggeſt, that without it,
+I had been unjuſt to my Subject and left the Parallel imperfect.</p>
+            <p>Whether it may prove any otherwiſe ſerviceable or not, I
+humbly leave to God Almighty's Bleſſing: Whom I at the ſame time call to
+Witneſs that the firſt Motive to the forming this Diſcourſe was the
+concern I had upon me to ſee and hear how <hi>Atheiſm</hi> and
+<hi>Blaſphemy</hi> have diffus'd and ſpread themſelves throughout the
+Nation; and the chearing hopes I had conceived from <hi>His Majeſty's Pious
+Proclamation,</hi> that ſuch a Diſcountenancing all that are that way
+Guilty, which he himſelf has moſt graciouſly pro<g ref="char:EOLhyphen"/>miſed, would be the
+moſt effectual Means to reſtrain its Courſe. and put a ſtop to the
+Malignity of its Influence: Which that it may, I beſeech God, may be not only
+the ear<g ref="char:EOLhyphen"/>neſt deſire but hearty endeavour of all that would not undergo the
+ſuſpicion of <hi>having an evil Will to</hi> this our <hi>Sion.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61055:3" rendition="simple:additions"/>
+            <head>A SERMON Preach'd In the Cathedral Church at <hi>Ely.</hi> 
+               <q>
+                  <bibl>Jer. Vii. 17.</bibl> 
+                  <p>Seeſt thou not what they do in the Cities of <hi>Judah,</hi> and
+in the Streets of <hi>Jeruſalem?</hi>
+                  </p>
+               </q> 
+            </head>
+            <p>WHEN <hi>Solomon</hi> ſays that <hi>the Light of the Eyes
+rejoyceth the heart,</hi>
+               <note place="margin">Pro. 15.30.</note> it can only be
+underſtood, where the Ob<g ref="char:EOLhyphen"/>ject is delightful: For ſuch a Pro<g ref="char:EOLhyphen"/>ſpect as
+<hi>Jeremiah</hi> had, when he ſaw the Deſolation of <hi>Jeruſalem,</hi>
+               <hi>the Young and the Old lie on the ground in the ſtreets, the Virgins and
+young Men fallen by the Sword;</hi> when he ſaw <hi>the Children faint for
+hunger in the top of every ſtreet, all that had been ſwadled and brought
+up, conſumed by the Enemy; when the Lord ſlew them in the Day of his Anger,
+when he killed and pitied not, none eſcaped nor remained;</hi> as we find it
+Pathetically deſcribed, <hi>Lam.</hi> 2.<note place="margin">Lam.
+2.19,21,22.</note> Surely ſuch a Proſpect as this could not but have ſo
+affected <pb n="2" facs="tcp:61055:4"/>his heart, as even to make him cry out in the
+Lan<g ref="char:EOLhyphen"/>guage of the ſame Prophet, <hi>wherefore came I forth out of the Womb to
+ſee labour and ſorrow?</hi>
+               <note place="margin">Jer. 20.18.</note>
+            </p>
+            <p>All which, if it were ſo afflicting to the Eye in the event,
+muſt needs be abundantly more ſo to ſee it likewiſe in its Cauſe,
+<hi>viz.</hi> The heigth of wicked<g ref="char:EOLhyphen"/>neſs they were arrived at, that provoked
+God to this; the ſhameleſs and abominable Sins they were guilty of, as you
+ſee in the 9th and 10th Verſes of this Chapter, that <hi>could Steal,
+Murder, commit A<g ref="char:EOLhyphen"/>dultery, Swear falſely</hi> and the like, and yet <hi>come
+and ſtand before him in his Houſe, whereupon his Name is called, and ſay,
+we are delivered to do all theſe Abo<g ref="char:EOLhyphen"/>minations.</hi> Such a careleſs and
+ſtupid ſecurity, that could from God's forbearance preſume upon peace and
+ſafety, notwithſtanding all the terrible examples of Vengeance that befell
+their Fore-fathers; which they are put in mind of in the next Verſe but one,
+to rowſe them, if it be poſſible, out of their deadly Lethargy, this
+dangerous Inſenſibility. <hi>Go ye now,</hi> ſays he, <hi>unto my Place,
+that was in</hi> Shiloh, <hi>and behold what I did to that for the wickedneſs
+of my People, ver.</hi> 12. And can theſe hope to eſcape their
+puniſh<g ref="char:EOLhyphen"/>ment, who are as deeply guilty of all their Sins? So many, that it
+were an endleſs thing to go about to enumerate or particularize them; ſo
+great that they are beyond all expreſſion; ſo evident and ap<g ref="char:EOLhyphen"/>parent, that
+it were but loſt labour to offer at any Proof of them: And therefore has God
+thought it enough in all reaſon to call upon the Prophets, or in<g ref="char:EOLhyphen"/>deed any
+ones Eyes to be Witneſſes thereof. <hi>Seeſt not thou what they do in the
+Cities of</hi> Judah, <hi>and in the Streets of</hi> Jeruſalem? An
+aggravation far above <pb n="3" facs="tcp:61055:4"/>any Deſcription that could have been
+given of their doings.</p>
+            <p>For the handling of which words ſo as may be moſt ſuitable
+to my Deſign in chuſing them, I need but remove the Scene from
+<hi>Jeruſalem and the Cities of Judah</hi> to this Nation whereunto we
+belong, and ima<g ref="char:EOLhyphen"/>gine the Lord calling to us, as he did to his Prophet, to take
+a view of all the Wickedneſs and Profaneneſs the Debauchery and Immorality,
+the Atheiſm and Irreligion, that abound among us.</p>
+            <p>And this Call have I for my own part the more readily hearken'd to
+at preſent, ſince it has pleas'd Almighty God to put it into the heart of
+our pious <hi>Sovereign</hi> to conſider, that the Reformation of our manners
+is the beſt return we can make for the hap<g ref="char:EOLhyphen"/>py and honourable Peace we are
+lately bleſt with: And that the vindicating of God's Honour from the many
+blaſphemous Aſperſions, wherewith the A<g ref="char:EOLhyphen"/>theiſm of this Age has
+endeavour'd to ſully it, is the moſt ſeaſonable Teſtimony of
+Gratitude for ſo ſignal a Mercy. Whoſe active Zeal in ſetting upon ſo
+no<g ref="char:EOLhyphen"/>ble an Undertaking has likewiſe ſtirred up an holy Emulation in his
+<hi>Parliament</hi> to joyn their helping hand, by contriving means to ſtem
+this Tide, and put a ſtop to that Inundation of Profaneneſs that has been a
+long time pouring in upon us. Which may, I hope, engage your Ears to entertain
+a Diſcourſe of this Nature with the more Attentiveneſs: All eſpeci<g ref="char:EOLhyphen"/>ally
+among you, that have any regard for Religion, or indeed for the Publick
+ſafety, that mightily depends upon the Succeſs of their endeavours to
+hinder the ſpreading of this Contagion, which will otherwiſe moſt
+certainly bring down ſome heavy Judgment on <pb n="4" facs="tcp:61055:5"/>our Heads. That
+no Aſſiſtance therefore may be wanting to the furtherance of ſo
+glorious a Work, 'tis likewiſe highly deſerving the Care, of not only
+<hi>You,</hi> who by your Stations have any Authority, but of <hi>You,</hi>
+alſo, who by the winning obligingneſs of your Car<g ref="char:EOLhyphen"/>riage and Converſation
+have any. Influence, over o<g ref="char:EOLhyphen"/>thers: That ſo thoſe, <hi>who ſit in the Seat
+of the Scorn<g ref="char:EOLhyphen"/>ful,</hi> and call all Religion only, Prieſt-craft, a Trade
+whereby <hi>We</hi> get our Living: That regard the Holy Scriptures but as a
+well lard Romance, and the great Articles of Chriſtianity as nothing elſe
+but ſo many Fables: That look upon <hi>our</hi> Preaching to be mere Cant,
+our Doctrine of Heaven and Hell, of a Reſur<g ref="char:EOLhyphen"/>rection and a Judgment to come to
+be only a Trick to debar them the pleaſure of Indulging their natural
+Appetites, and a bare Deſign to put a check upon their ſenſual deſires
+and inclinations, which are very im<g ref="char:EOLhyphen"/>patient of any controul: That even thoſe,
+I ſay, that entertain ſuch invincible Prejudices againſt <hi>Our</hi>
+Admonitions and Reproofs, may yet be wrought on by <hi>You,</hi> whom they are
+not ſo ready to ſuſpect of any By deſigns upon them, to enter into
+parly with themſelves, and conſider and <hi>ſee what</hi> it is <hi>they
+are doing.</hi> And that you may be the better animated to curb the growth of
+theſe pernicious Impieties, that tend to the utter Ruin and Subverſion of
+all Religi<g ref="char:EOLhyphen"/>on among us, thereby to prevent, what you can, the dreadful
+conſequence hereof, even the Deſtructi<g ref="char:EOLhyphen"/>on and Over-throw of your Native
+Countrey (a Judgment God never fails to bring on a Land, when all his milder
+Methods are not able to reform it) I beſeech you <hi>now,</hi> that you would
+enter with me into a ſerious Meditation on the words of my Text in theſe
+three following Particulars.</p>
+            <p>
+               <pb n="5" facs="tcp:61055:5"/>
+               <hi>Firſt,</hi> I deſire that you would take
+a view with me of the wickedneſs the Prophet is here called upon to obſerve
+<hi>in the Cities of</hi> Judah <hi>and in the Streets of</hi> Jeruſalem, and
+compare with that the a<g ref="char:EOLhyphen"/>bominable Principles and Practices, that at this day
+reign among us.</p>
+            <p>
+               <hi>Secondly,</hi> That you would from the dreadful Ef<g ref="char:EOLhyphen"/>fects of
+this their Wickedneſs conſider, what we may juſtly expect ſhould befall
+us, if we perſiſt with our no leſs heinous Provocations to incenſe the
+Majeſty of Heaven againſt us.</p>
+            <p>And <hi>Thirdly,</hi> How much it therefore concerns us both by
+our own Repentance and our beſt endea<g ref="char:EOLhyphen"/>vours to reclaim others, to prevent
+thoſe Judgments, which will otherwiſe mooſt certainly overtake us.</p>
+            <p>To the Firſt of Theſe the very words of the Text directly lead
+us. The Second and Third do natural<g ref="char:EOLhyphen"/>ly ariſe from a due Conſideration,
+whither thoſe <hi>Do<g ref="char:EOLhyphen"/>ings,</hi> we are call'd upon to take notice of, moſt
+ap<g ref="char:EOLhyphen"/>parently tend.</p>
+            <p>And, Firſt, Let us take a view of the Wickedneſs the Prophet
+is here call'd upon to obſerve <hi>in the Cities of</hi> Judah <hi>and in the
+Streets of</hi> Jeruſalem, and com<g ref="char:EOLhyphen"/>pare with the ſame the abominable
+Principles and Practices, that at this day abound among us.</p>
+            <p>Their crying Sin, and that for which They had been often threatned
+with an utter Exciſion, was <hi>Idolatry.</hi> A Sin they were ſo
+ſtrangely bewitch'd with, that notwithſtanding God's continual Warnings
+againſt it, notwithſtanding their miraculous Victo<g ref="char:EOLhyphen"/>ries over the Nations
+God deliver'd into their hands on the account of this very Sin, they could not,
+up<g ref="char:EOLhyphen"/>on being left never ſo little to themſelves, forbear, <pb n="6" facs="tcp:61055:6"/>ever ſince their amazing Deliverance out of the Land of
+<hi>Egypt.</hi> For which tho' <hi>God often plagu'd them, and Sold them into
+the hands of their Enemies,</hi>
+               <note place="margin">Judg. 2.14.</note> till they
+were duly humbled under a ſenſe of it, yet were they ſeldom long
+ſettled in a State of proſperity, but <hi>they had forgot him who had done
+ſo great things for them;</hi>
+               <note place="margin">Pſ. 106.21.</note> they
+could not <hi>grow fat,</hi>
+               <note place="margin">Deut. 32.15.</note> but they
+muſt <hi>kick,</hi> become wanton and <hi>and go a Whoring after o<g ref="char:EOLhyphen"/>ther
+Gods.</hi>
+               <note place="margin">Judg. 2.17.</note> All which God had as yet look'd
+upon but as ſo many <hi>ſtartings aſide,</hi> and ſo by ſome ſhort
+Affliction, ſome ſudden Judgment giving them a check, he ſoon reduced
+them into the right Path.<note place="margin">Pſ. 78.58. Old Tranſ.</note>
+But now <hi>they are quite gone out of the way, they are altogether become
+abominable, there is none that doth good, no, not one.</hi>
+               <note place="margin">Pſ. 14.4. Old Tranſ.</note> You may ſee their preſent
+Con<g ref="char:EOLhyphen"/>dition deſcribed by two Prophets <hi>Jeremiah</hi> and <hi>E<g ref="char:EOLhyphen"/>zekiel,</hi>
+ſent on purpoſe to warn them what they muſt expect upon their continuance
+in ſuch daring and provoking Impieties.</p>
+            <p>For what the Firſt of theſe diſcovers upon a fur<g ref="char:EOLhyphen"/>vey of
+them, we need go no farther than this Chap<g ref="char:EOLhyphen"/>ter of my Text. 
+<note place="margin">Idolatry.</note>
+               <hi>They burn Incenſe to</hi>
+Baal,<note place="margin">v. 9.</note> 
+               <hi>make Cakes to the Queen of Heaven,
+pour out Drink-Offe<g ref="char:EOLhyphen"/>rings unto their Gods,</hi>
+               <note place="margin">v. 18.</note>
+               <hi>build the High Places of</hi> To<g ref="char:EOLhyphen"/>phet <hi>to burn their Sons and their
+Daughters in the Fire;</hi>
+               <note place="margin">v. 31.</note> 
+               <note place="margin">Profane<g ref="char:EOLhyphen"/>neſs.</note>
+               <hi>ſet their
+abominations in the Houſe, whereupon God's Name is called, to pollute
+it.</hi>
+               <note place="margin">v. 30.</note> All this is a ſuf<g ref="char:EOLhyphen"/>ficient
+manifeſtation of their Idolatry and Profane<g ref="char:EOLhyphen"/>neſs. 
+<note place="margin">Immora<g ref="char:EOLhyphen"/>lity.</note>And to ſhew you, how
+exceſſively corrupted they were in their Morals as well as their Worſhip,
+you may read in this ſame Chapter likewiſe, that <hi>Truth is periſhed
+and cut off from their Mouth;</hi>
+               <note place="margin">v. 28.</note> 
+               <hi>they
+Steal, Murder, commit Adultery, Swear falſely,</hi>
+               <note place="margin">v.
+9.</note> as <pb n="7" facs="tcp:61055:6"/>you heard before. 
+<note place="margin">Incorrigi<g ref="char:EOLhyphen"/>bleneſs.</note>Nay, that which
+rendred their Condition the moſt deſperate, was, that they rejected all the
+means God made uſe of to amend them. When he encourag'd them <hi>to walk in
+all the ways which he commanded, that it might be well with them;</hi>
+               <note place="margin">v. 23.</note> 
+               <hi>they would not harken nor incline their Ear, but
+walked in the Counſels and in the Imaginations of their evil
+hearts.</hi>
+               <note place="margin">v. 24.</note> 
+               <hi>When he ſent unto them his
+Servants, the Prophets, daily riſing up early and ſending them;</hi>
+               <note place="margin">v. 25.</note> 
+               <hi>Yet hearkned they not unto him, nor inclined
+their Ear, but hardned their neck and did worſe than their Fathers.</hi>
+               <note place="margin">v. 26.</note>
+            </p>
+            <p>Come we now to the Prophet <hi>Ezekiel,</hi> and we ſhall find
+God beſpeaking him much after the ſame manner, as he does the Prophet
+<hi>Jeremy</hi> in my Text. <hi>Seeſt thou what they do, even the great
+abominations that the Houſe of</hi> Iſrael <hi>committed here? ch.</hi> 8.
+<hi>v.</hi> 6. Their Idolatry in the firſt place. 
+<note place="margin">Idolatay.</note>
+               <hi>None caſt away the
+abominations of their Eyes, neither did they forſake the Idols of</hi> Egypt,
+<hi>ch.</hi> 20.8. <hi>They made their Sons to paſs through the
+Fire,</hi>
+               <note place="margin">v. 31.</note> 
+               <hi>and ſaid we will be as the
+Heathen to ſerve Wood and Stone.</hi>
+               <note place="margin">v. 32.</note> Their
+Profane<g ref="char:EOLhyphen"/>neſs next. 
+<note place="margin">Profane<g ref="char:EOLhyphen"/>neſs.</note>
+               <hi>Thou haſt
+deſpiſed mine Holy Things,</hi> ch. 22.8. <hi>Her Prieſts have violated
+my Law, and have profaned my Holy Things, they have put no dif<g ref="char:EOLhyphen"/>ference between
+the Holy and Profane,</hi> v. 26. By which and what we find in other places of
+the ſame Prophet we may likewiſe diſcern the corruption of their manners.
+
+<note place="margin">Immora<g ref="char:EOLhyphen"/>lity.</note>
+               <hi>They have changed my
+Judgments into Wickedneſs more than the Nations, they have re<g ref="char:EOLhyphen"/>fuſed my
+Judgments and my Statutes, they have not walked in them,</hi> ch. 5.6. Again,
+<hi>ch.</hi> 22.7. <hi>They have dealt by Oppreſſion with the Stranger,
+have vexed <pb n="8" facs="tcp:61055:7"/>the Fatherleſs and Widow; have greedily gain'd
+of their Neighbours by extortion,</hi> v. 12. and v. before, <hi>One hath
+committed Abomination with his Neighbour's Wife; another hath lewdly defiled
+his Daughter-in-Law, another has humbled his Siſter, his Father's
+Daughter.</hi> And to ſhew you, in a word, out of this Prophet alſo, how
+little hope there was of their be<g ref="char:EOLhyphen"/>ing reclaimed, we find the Lord telling him,
+ch. 3.7. 
+<note place="margin">Incorrigi<g ref="char:EOLhyphen"/>bleneſs.</note>
+               <hi>The Houſe
+of</hi> Iſrael <hi>will not hearken unto Thee, for they will not harken unto
+Me; For all the Houſe</hi> Iſrael <hi>are impudent and hard hearted.</hi>
+Thus have we <hi>out of the Mouth of theſe two Witneſſes the truth</hi>
+of all that is urged againſt them ſufficiently <hi>eſtabliſhed,</hi>
+and their guilt notoriouſly apparent.</p>
+            <p>Add now, that we may ſee how God, when once a People have filled
+up the meaſure of their Iniquities, and are ripe for Deſtruction, gives
+them over to a Spirit of Infatuation, ſuffering them to take ſuch
+Counſels and purſue ſuch Methods as muſt neceſſarily bring
+inevitable Ruin upon them: Let us look upon the fatal and immediate Cauſe of
+their Deſolation and Captivity; and we ſhall find this to be
+<hi>Zedekiah</hi>'s rebelling againſt the <hi>King of Babylon</hi> contrary
+to his Oath. 
+<note place="margin">Perjury.</note>Tho' he had ſworn Allegiance to
+<hi>Nebuchad<g ref="char:EOLhyphen"/>nezzer,</hi> and particularly, that he would upon no ac<g ref="char:EOLhyphen"/>count
+ſide with the <hi>Egyptians,</hi> yet in a little time truſting in their
+Ability to ſupport him, he enters into League with them; which brought the
+<hi>King of Babylon</hi> with a great Army againſt <hi>Jeruſalem.</hi> And,
+being ſtill flatter'd by thoſe about him, that his Allies the
+<hi>Egyptians</hi> would not only raiſe the Seige, but al<g ref="char:EOLhyphen"/>ſo give them
+ſuch a Defeat, that they ſhould not be able to come down any more againſt
+him; he was <pb n="9" facs="tcp:61055:7"/>prevailed with to depend on theſe hopes, and
+<hi>to truſt in the ſhadow of</hi> Egpyt, which <hi>Iſaiah</hi> had
+formerly prophe<g ref="char:EOLhyphen"/>cied, <hi>ſhould be their Confuſion; being but a broken
+Reed, whereon if a Man lean, it will go into his hand, and peirce it;</hi>
+               <note place="margin">Ch. 30.3. 36.6.</note> rather than he would hearken to
+<hi>Jeremiah</hi> or <hi>Ezekiel,</hi> who had now foretold, that it would
+prove no better.</p>
+            <p>To bring him to this inſenſibility of his danger, per<g ref="char:EOLhyphen"/>haps he
+might be wrought upon by the ſame Evil Coun<g ref="char:EOLhyphen"/>ſellors to believe, their
+Prophecies were inconſiſtent one with another, and therefore, ſince both
+could not be true, there was little regard to be had to either: The one ha<g ref="char:EOLhyphen"/>ving
+Prophecied, that <hi>his Eyes ſhould behold the Eyes of the King of</hi>
+Babylon, <hi>and that he ſhould ſpeak with him Mouth to Mouth, and ſhould
+go into</hi> Babylon, <hi>Jer.</hi> 34.3. and the other, <hi>that he ſhould
+not ſee it,</hi> Ezek. 12.13. This we find <hi>Joſephus</hi> gives for the
+main reaſon of his ſlighting what they ſaid.<note place="margin">Ant. Jud.
+Lib. 10. c. 9.</note> And indeed had the later Prophet ſaid no more than
+this, both were compleatly verified in the Event; he being in his flight
+overtaken near <hi>Jerico,</hi> and brought before the <hi>King of
+Babylon.</hi> who, after he had accuſed him of perfidiouſneſs, and
+upbraided him with Ingratitude in rebelling againſt him, who had advanc'd
+him, order'd his Sons to be ſlain be<g ref="char:EOLhyphen"/>fore his Eyes; and then, that nothing
+might ever divert them after the horror of that diſmal ſight, or rather,
+that by a ſtrange kind of Contradiction he might have it perpetually
+<hi>before his Eyes</hi> (the laſt Object we ſaw uſu<g ref="char:EOLhyphen"/>ally continuing more
+lively on the Imagination till ſome<g ref="char:EOLhyphen"/>thing new offer it ſelf to our view) he
+caus'd thoſe very Eyes to be forthwith plucked out, and thus led him away
+Captive into <hi>Babylon:</hi> By which means the words of the Prophecy were
+exactly fulfilled, that he ſhould ne<g ref="char:EOLhyphen"/>ver ſee it. Tho' I believe rather,
+they might poſſibly perſuade him, that <hi>Ezekiel</hi> was
+inconſiſtent with him<g ref="char:EOLhyphen"/>ſelf <pb n="10" facs="tcp:61055:8"/>to talk of his dying in
+<hi>Babylon</hi> without living firſt to ſee it: Since 'tis plain he is
+expreſs enough, that <hi>Ze<g ref="char:EOLhyphen"/>dekiah ſhould be carried into</hi> Babylon,
+<hi>and dye there:</hi> As may be ſeen by the words immediately following in
+that Verſe above cited, and other places of the ſame Pro<g ref="char:EOLhyphen"/>phet. However, we
+find, what reaſon ſo e'er induced him to it, he was ſway'd more by
+<hi>Hananiah,</hi> of whom we have an Account, <hi>Jer.</hi> 28. and others
+about him, than by any thing theſe two Prophets offer'd to the con<g ref="char:EOLhyphen"/>trary.
+Whereupon God abſolutely reſolves and confirms it with an Oath, that this
+very thing ſhould prove his o<g ref="char:EOLhyphen"/>verthrow. <hi>As I live ſaith the Lord God,
+ſurely in the Place, where the King dwelleth, that made him King, whoſe
+Oath he deſpiſed, and whoſe Covenant he brake, even with him in the
+midſt of</hi> Babylon <hi>he ſhall dye,</hi> Ezek. 17.16. and again, v. 20.
+<hi>I will bring him to</hi> Babylon <hi>and will plead with him there for his
+treſpaſs which he hath treſpaſ<g ref="char:EOLhyphen"/>ſed againſt me.</hi> By all which it
+appears, that, when a People or Nation perſiſt to provoke Almighty God by
+their continually repeated Tranſgreſſions, in Oppo<g ref="char:EOLhyphen"/>ſition to all the
+gracious Methods made uſe of by him to reclaim them, <hi>he at length gives
+them over to ſtrong Deluſions, that they ſhould believe a lye, becauſe
+they re<g ref="char:EOLhyphen"/>ceived not Truth in the love of it; but, becauſe they deſi<g ref="char:EOLhyphen"/>red, did
+therefore believe</hi>
+               <note place="margin">2. Theſſ. 2.10.11.</note> (for
+<hi>quod volumus, facile credi<g ref="char:EOLhyphen"/>mus</hi>) the contrary to be true rather than
+it. <hi>The love of the Truth, that they might be ſaved. To whom as unto
+Children, that have not the uſe of Reaſon, he ſends a Judgment to mock
+them, that they, who would not be re<g ref="char:EOLhyphen"/>formed by the Correction, wherein he
+dallied with them, might feel a Judgment worthy of God.</hi>
+               <note place="margin">Wiſd. 12.25.26.</note>
+            </p>
+            <p>And ſo I come to ſee in the next Place how far we have
+<hi>Copied</hi> after this <hi>Original,</hi> and to compare, with what is here
+diſcover'd of them, the abominable <hi>Principles</hi> and <hi>Practices</hi>
+that at this day reign among us.</p>
+            <p>
+               <pb n="11" facs="tcp:61055:8"/>
+               <note place="margin">Wicked Principles and
+Opini<g ref="char:EOLhyphen"/>ons.</note>And here alas! We ſhall find Men, whoſe very
+<hi>Prin<g ref="char:EOLhyphen"/>ciples</hi> give encouragement to all manner of Wickedneſs and
+Impiety by reſolving the Whole of a Chriſtian into a ſtrong Faith: So
+that, if they can but believe them<g ref="char:EOLhyphen"/>ſelvrs to be of the Number of thoſe,
+<hi>that are deliver'd from the wrath to come,</hi>
+               <note place="margin">1
+Theſſ. 1.10.</note> all the <hi>Abominations</hi> they can be guilty of,
+ſhall be no Bar to their Entrance into <hi>the Kingdom of God,</hi> whereby
+they do in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect ſay with the
+<hi>Jews,</hi> in the 10th v. of this ch. <hi>We are deliver'd to do</hi> (or
+tho we have done) <hi>all theſe Abominations.</hi> Theſe are Preſumptions
+with a witneſs. But there is ſtill another ſort of hardned Sinners, that
+alſo ſhamefully abound, <hi>who</hi> do <hi>even deny the Lord that bought
+them.</hi>
+               <note place="margin">2 Pet. 2.1.</note> Who, tho' they pretend to
+worſhip one God, yet own him not in that manner wherein he has diſcover'd
+himſelf, denying in<g ref="char:EOLhyphen"/>deed all <hi>Revelation,</hi> and conſequently the
+whole Oecono<g ref="char:EOLhyphen"/>my of our <hi>Redemption:</hi> To whom all the Sacred Myſteries
+of Religion, as Reveal'd in Scripture, are mere Nonſenſe, and the Doctrine
+of <hi>three Perſons and one God,</hi> a Subject ſit only for Mirth and
+Ridicule. Good God! that we ſhould live to ſee the whole Platform of our
+future Hap<g ref="char:EOLhyphen"/>pineſs, wherein thoſe adorable Attributes, thy Power, thy
+Wiſdom, thy Juſtice, thy Mercy are ſo viſibly diſ<g ref="char:EOLhyphen"/>play'd, ſo
+contemptuouſly trampled on and expoſed.</p>
+            <p>The firſt Charge I mention'd againſt the <hi>Iſraelites</hi>
+was their heinous Sin of <hi>Idolatry:</hi> which poſſibly I may run the
+hazard of being judged a falſe Accuſer, ſhould I go about to fix on this
+Nation, whoſe withdrawing its ſelf from the <hi>Romiſh Communion</hi> was
+chiefly upon account of its Idolatrous Practices; a Sin not univerſally and
+direct<g ref="char:EOLhyphen"/>ly charged on them neither; tho' their <hi>Doctrines</hi> and their
+<hi>Doings</hi> that way tending are ſo ſcandalous and ſu<g ref="char:EOLhyphen"/>ſpicious,
+that we could not think ourſelves ſafe or ſecure enough without fleeing
+from the very <hi>Appearance</hi> of it. And therefore perhaps it may look very
+ſtrange to <pb n="12" facs="tcp:61055:9"/>charge <hi>Idolatry</hi> upon any of that
+People, who have ſhewed themſelves ſo zealous againſt it.</p>
+            <p>
+               <note place="margin">Idolatry.</note>And yet, after all, if
+ſetting up a God of our own fra<g ref="char:EOLhyphen"/>ming be <hi>Idolatry,</hi> we need not
+mention the reſting in mere outward Obſervances and Shadows of Religion,
+the placing it in hearing Sermons without practice, the not worſhipping God
+after a due manner, not yielding a juſt Veneration to Sacred
+<hi>Perſons</hi> and <hi>Places,</hi> making Reli<g ref="char:EOLhyphen"/>gion ſerve to evil
+Purpoſes, loving the Pomps and Va<g ref="char:EOLhyphen"/>nities of this wicked World; tho' all
+theſe are no leſs than ſeveral Degrees of it; yet, I ſay, we need not
+men<g ref="char:EOLhyphen"/>tion any ſuch to prove the guilt of this Sin among us: Since we have
+alas! To many, that will not be content with any <hi>God</hi> but of their own
+making. And therefore, if we tell them of a <hi>God</hi> that will one day call
+them to an Account for the Wickedneſs of their Lives, and that for theſe
+ſhort moments of Pleaſure, there is an Eternity of Miſery awaits them
+hereafter, they ſhall but laugh at us for our pains, and alledge that it is
+inconſiſtent with not only the <hi>Mercy</hi> but the <hi>Juſtice</hi>
+alſo of an <hi>Infinite Be<g ref="char:EOLhyphen"/>ing,</hi> in whom we own <hi>both thoſe
+Attributes</hi> to be in the higheſt Perfection, to deal thus with his
+Creatures.</p>
+            <p>Firſt, they look upon it as irreconcileable with his
+<hi>Mercy,</hi> ſince they cannot believe that an <hi>All-merciful God</hi>
+would make any thing to damn it. Never conſide<g ref="char:EOLhyphen"/>ring that the very Superiority
+of our Nature above others conſiſts in having the <hi>Liberty of Choice and
+the <g ref="char:V">Ʋ</g>ſe of Reaſon,</hi> that by comparing one thing with another, we may
+<hi>know how to refuſe the Evil and chuſe the Good,</hi>
+               <note place="margin">Iſ. 7.15.</note> which plainly makes Damnation our own Act, not
+<hi>God</hi>'s: Nor ſo much as giving any Credit to what follows; namely,
+that, when, by making a wrong Choice, we had abandon'd ourſelves over to the
+Power of him, who deluded us into it, yet <hi>God</hi> notwithſtanding
+contrived <pb n="13" facs="tcp:61055:9"/>ſuch excellent means to <hi>recover us out of
+his Snare,</hi> and ſupplied us with ſuch gracious Aſſiſtances to
+regain the Ground we had loſt, that nothing, but our own Wilful<g ref="char:EOLhyphen"/>neſs and
+Obſtinacy ſtill, can make us miſerable: Which is the fartheſt that
+<hi>Infinite Mercy</hi> joyned with <hi>Infinite Wiſdome</hi> can extend.</p>
+            <p>But then, Secondly, they hold it likewiſe inconſiſtent with
+his <hi>Juſtice</hi> to puniſh <hi>Temporal</hi> Sins with <hi>Eternal</hi>
+Torments. Wherein they as little conſider, that thoſe, whom God ſo
+puniſhes, have ſinned as long as they are able, and that they Sin not to
+Eternity is wholy owing to the condition of their nature, ſince, if that were
+Infi<g ref="char:EOLhyphen"/>nite, ſo would their Sins be likewiſe. And yet, that theſe are the
+only Sinners that are <hi>eternally Damn'd,</hi> is plain, becauſe <hi>at
+what time ſoever the Wicked turns from all the Sins that he hath
+committed</hi>
+               <note place="margin">Ezek. 18.27.</note> (tho' even at the lateſt
+hour of his Life) by ſuch ſteady reſolutions of forſaking them, as,
+ſhould God renew him a Leaſe of it, he could never be <hi>wilfully</hi>
+betrayed into the Breach of them again, <hi>he ſhall ſave his Soul
+alive.</hi> Doubtleſs this is never the ſub<g ref="char:EOLhyphen"/>ject either of their
+<hi>Conſideration</hi> or <hi>Belief:</hi> For, if it were, it muſt needs
+be likewiſe abundantly ſufficient to clear Almighty God from the leaſt
+Imputation of <hi>Injuſtice.</hi>
+            </p>
+            <p>But, if to frame a God with <hi>Attributes</hi> only ſuitable to
+their own Notions of <hi>Mercy</hi> and <hi>Juſtice,</hi> ſuch as may
+conſiſt with a Liberty to live as they liſt, and to wallow in ſuch
+<hi>Bruitiſh ſenſuality,</hi> as did generally accompany the
+<hi>Heatheniſh Idolatry,</hi> which is the reaſon that the Apoſtle,
+according to Dr. <hi>Hammond</hi>'s Notion of the word
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> gives it that Name:<note place="margin">Col. 3.5. See <hi>Ham.</hi> on Rom. 1.29. 1 Cor. 5.10.</note> If
+ſuch an Idea of God, as will ſuffer them to indulge themſelves in the
+fouleſt and moſt beaſtial Sins, upon an Opinion that it is
+in<g ref="char:EOLhyphen"/>conſiſtent with his <hi>Mercy</hi> and <hi>Juſtice</hi> to puniſh
+them eter<g ref="char:EOLhyphen"/>nally for it: If this, I ſay, be <hi>Idolatry,</hi> as I think we 
+<pb n="14" facs="tcp:61055:10"/>have but too juſt reaſon to account it; then we may
+conclude that we want not thoſe, who are as notoriouſ<g ref="char:EOLhyphen"/>ly Guilty, as the
+<hi>Jews</hi> of Old: Since it is at leaſt as groſs and abſurd to make a
+<hi>God,</hi> that can quietly behold all manner of Sin without puniſhing it,
+which is in ef<g ref="char:EOLhyphen"/>fect to approve, at leaſt not to diſapprove of it, as it is
+to form a <hi>God</hi> of Wood or Stone, that cannot puniſh it by reaſon it
+neither ſees it, nor is ſenſible of it.</p>
+            <p>
+               <note place="margin">Atheiſm.</note>And now, if we are as bad as
+they already, what ſhall we be, when we have diſcover'd others, that
+believe <hi>no God at all,</hi> that will own no ſuch Thing as an
+<hi>Immaterial Being,</hi> that deny therefore that there is any thing with<g ref="char:EOLhyphen"/>in
+us of a different Nature from this <hi>Corporeal Fabrick.</hi> And yet, that
+there are ſuch, appears by one, who, on his 
+<q rend="inline">"uſual calling on God to damn him in his common
+Diſcourſe, being asked whether he were in <hi>earneſt</hi> or not, when
+he uſed thoſe words, anſwered that <hi>Jeſt</hi> or <hi>Earneſt</hi>
+was all one, ſince he did not believe there was any thing in his
+Compoſition, that was capable of it:"</q> As we have it atteſted by a very
+Ingenious Perſon in his <hi>Phyſico-Theological Letters.</hi> But let us
+beſeech Thee, O Lord, to enlighten the Eyes of all ſuch Miſcreants in
+<hi>this Life,</hi> that they may ſee their wretched miſtake, time enough
+to prevent a too ſad and terrible Coviction of it in the <hi>next.</hi>
+            </p>
+            <p>
+               <note n="a" place="margin">
+                  <hi>Tho. Caſes</hi> Model of Spiri<g ref="char:EOLhyphen"/>tual
+Thankfulneſs before the <hi>Houſe of Commons,</hi> Feb. 19. 1645. p.
+24.</note>One of the Aſſembly of Divines ſpeaking <hi>of the
+Superſtition, Hereſy, and Profaneneſs, they had Covenanted to
+ex<g ref="char:EOLhyphen"/>tirpate,</hi> takes notice of no leſs than 180 <hi>Hereſies, that were
+at that time pro<g ref="char:EOLhyphen"/>pagated in this Nation</hi> (whereof, if there were ſo
+ma<g ref="char:EOLhyphen"/>ny, I doubt we may e'en thank thoſe of his own Stamp for being the
+occaſion, by ſo miſerably rending this poor <hi>Church</hi> in pieces as
+they did.) Among which he menti<g ref="char:EOLhyphen"/>ons <pb n="15" facs="tcp:61055:10"/>
+               <hi>the Divinity of
+Chriſt and the Holy Ghoſt queſtion'd by ſome, deny'd by others; and
+that there wanted not ſuch as aſſerted the Mortality of the Soul.</hi> Of
+the former of theſe 'twere to be wiſhed there were not too many in our
+days. And of the latter 
+<note n="b" place="margin">Hiſtory of A. B. <hi>Laud</hi>'s
+Troubles and Tryal, Pub<g ref="char:EOLhyphen"/>liſhed by Mr. <hi>Wharton.</hi> Tho' this is but an
+old <hi>Hereſy</hi> revived: For <hi>Euſeb. Hiſt. Ec<g ref="char:EOLhyphen"/>cleſ. Lib.</hi> 6.
+<hi>c.</hi> 37. tells us of ſome in <hi>Arabia</hi>—<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Who ſaid that the Soul of Man at the very
+inſtant of his departure dies and periſhes together with the Body, and
+ſhall hereafter return to Life with it again at the day of
+Reſurrection.</note>A. Bp. <hi>Laud</hi> in his <hi>Anſwer to the Lord</hi>
+Say's <hi>Speech</hi> gives this Account; 
+<q rend="inline">"there were ſome then Living, who, tho' they
+durſt not ſpeak it out in all companies, did yet cun<g ref="char:EOLhyphen"/>ningly inſinuate
+that at Death the Soul and Body were extinct together, but riſe again at the
+Reſurrection."</q> It ſeems ſuch monſtrous Errors did not then ap<g ref="char:EOLhyphen"/>pear
+bare-fac'd: tho' he might poſſibly ſee this made publick afterwards, it
+appea<g ref="char:EOLhyphen"/>ring in Print<note n="c" place="margin">The Mortality of the Soul by <hi>R.
+O.</hi> Printed in the Year, 1644.</note> a little before his Death. But even
+thoſe were more rational than our <hi>Modern Moraliſts</hi> (if I may be
+allow'd to uſe that <hi>Term</hi>) their Opinion ſuppo<g ref="char:EOLhyphen"/>ſing an after
+Compenſation of Deeds whether Good or Evil, that meet not with their Reward
+here: Whereas <hi>theſe</hi> remove every thing out of their way, that may
+curb or reſtrein them from committing the vileſt enor<g ref="char:EOLhyphen"/>mities in
+<hi>this</hi> World, by expecting never to be called to an Account for them in
+<hi>another.</hi>
+            </p>
+            <p>
+               <note place="margin">Wicked<g ref="char:EOLhyphen"/>neſs and Immorali<g ref="char:EOLhyphen"/>ty.</note>So that
+where we find ſuch <hi>Principles,</hi> we need not be to ſeek for
+<hi>Practices</hi> anſwerable to them, or indeed for any of that black
+Catalogue of Sins, which we drew out of the two Prophets againſt the
+<hi>Jews.</hi> For, alas! what ſhould hinder ſuch from ſtealing, from
+uſing any ſiniſter ways of defrauding their Neighbours, from Ex<g ref="char:EOLhyphen"/>tortion,
+from down-right Violence, where they are pow<g ref="char:EOLhyphen"/>erful enough, or ſome falſe
+pretence of Right, where <pb n="16" facs="tcp:61055:11"/>they are not; from ſeeking to
+attain Honor or Riches by any unlawful means, <hi>&amp;c.</hi> What ſhould
+reſtrain them from gratifying their <hi>ſenſual Luſts,</hi> from
+height'ning them by pampering their Bodies, from inſlaming them by
+Intemperance and Exceſs? What indeed can with<g ref="char:EOLhyphen"/>hold them from any kind of Sin
+whatſoever, that they are in the leaſt tempted to, either by
+<hi>Profit</hi> or <hi>Pleaſure,</hi> or even an <hi>Itch of boaſting and
+glorying</hi> in their Wicked<g ref="char:EOLhyphen"/>neſs, that we may ſee what Men of
+<hi>Courage</hi> and <hi>Bravery</hi> they are, how they can bid defiance to
+all manner of Fear or Danger of any after-reckoning.</p>
+            <p>Hence proceed thoſe daring Sins of <hi>Profaning God</hi>'s
+<hi>Holy Name</hi> by <hi>Blaſphemy, common Swearing, deſpiſing his Holy
+Word,</hi> and thoſe he has ſet a-part for the <hi>Diſpenſing</hi> of
+it, flighting all we can urge to Reform them, and endeavour to put
+<hi>Goodneſs</hi> and <hi>Piety</hi> out of countenance by Scoffing at all
+that is <hi>Sacred.</hi> By which means, I am afraid, it happens, that we find
+a great many, who have ſome ſecret Veneration for <hi>Virtue,</hi> and make
+Profeſſion of the ſame Religion with us, from the contagious Influ<g ref="char:EOLhyphen"/>ence
+of ſuch ſad Examples, moſt ſcandalouſly blaſphe<g ref="char:EOLhyphen"/>ming God by their
+wicked Lives.</p>
+            <p>Indeed how many are there, who come to Church, and vouchſafe us
+the Hearing, while we are reproving <hi>Vice,</hi> that can yet be guilty of
+many of the Sins above<g ref="char:EOLhyphen"/>mention'd, not ſcrupling to paſs over any thing,
+that ſtands in the way of their <hi>Coveteouſneſs</hi> or
+<hi>Ambition.</hi> If they can but get <hi>Wealth</hi> or <hi>Honor,</hi> no
+matter by what means, whether by lying or Arts of Deceit in buying or
+ſelling; by exacting on the Neceſſities of others; by giving or taking of
+<hi>Bribes,</hi> by ruining their Neighbours Reputation, or endeavouring to
+ſupplant him by any under-hand dealing or even <hi>Perjury</hi> it ſelf.
+The very naming whereof, brings me to the laſt Sin I mention'd 
+<pb n="17" facs="tcp:61055:11"/>that haſten'd God's Vengeance on <hi>Jeruſalem</hi> 
+               <note place="margin">Perjury.</note>(for 'tis more than time I
+ſhould have done with this Head, which I could heartily wiſh I had not too
+much reaſon to be ſo large upon) and may put us upon conſidering whether
+we have not likewiſe too many <hi>Zedekiah's</hi> among us, that bear but
+little regard to the <hi>Oath</hi> they have taken to the <hi>King,</hi> under
+whoſe Government we are now (bleſſed be God) fully ſettled in a
+<hi>ſafe,</hi> and, we hope, a <hi>Laſting Peace.</hi> Now if we are no
+leſs guilty of their abominable Impieties, and have that Sin withall lurking
+among us, that was the immediate Cauſe of bringing that Captivity upon them;
+then it is high time for us to conſider in the next place,</p>
+            <p>From the dreadful Effects of their Wickedneſs, what may we
+juſtly expect ſhould befall us, if we perſiſt with our no leſs
+heinous Provocations to incenſe the <hi>Majeſty of Heaven</hi> againſt
+us? Which was the Second thing I deſir'd might be conſider'd.</p>
+            <p>
+               <hi>Suppoſe ye,</hi> ſaith our Saviour, <hi>that thoſe</hi>
+Galileans, <hi>whoſe blood</hi> Pilate <hi>mingled with their Sacrifices,
+were Sin<g ref="char:EOLhyphen"/>ners above all the</hi> Galileans, <hi>becauſe they ſuffer'd
+ſuch things: or that thoſe eighteen, on whom the Tower of</hi> Si<g ref="char:EOLhyphen"/>loam
+<hi>fell and ſlew them, were Sinners above all that dwell in</hi>
+Jeruſalem? <hi>I tell you nay; but except ye repent, ye ſhall all
+likewiſe periſh,</hi> Luke 13. the firſt 5 Verſes. So, when the
+Apoſtle warns his <hi>Corinthians</hi> of what happen'd to the
+<hi>Iſraelites</hi> in their Paſſage out of <hi>Egypt</hi> into
+<hi>Cana<g ref="char:EOLhyphen"/>an</hi> for their diſobedience, he tells them, <hi>that with ma<g ref="char:EOLhyphen"/>ny
+of them God was not well pleas'd, for they were over<g ref="char:EOLhyphen"/>thrown in the</hi>
+Wilderneſs, 1 <hi>Cor.</hi> 10.5. naming likewiſe in the Verſes following
+ſeveral other Judgments, that befell them for ſeveral Sins: and to let them
+know that ſuch Sins might juſtly expect the like Vengeance, he adds
+<hi>v.</hi> 11. <hi>that all theſe things happen'd to them for En<g ref="char:EOLhyphen"/>ſamples, 
+<pb n="18" facs="tcp:61055:12"/>and they are written for our Admonition, upon whom the ends
+of the World are come.</hi>
+            </p>
+            <p>I think I have made it appear that our Sins are ſo far from
+<hi>coming ſhort</hi> of theirs, that they ſeem in many re<g ref="char:EOLhyphen"/>ſpects to
+<hi>exceed</hi> them. All our hopes are, that we are not ſo
+<hi>univerſally</hi> wicked, that there are ſome <hi>Phineas</hi>'s ſtill
+left, that may hinder the <hi>Progreſs</hi> of this <hi>Profane<g ref="char:EOLhyphen"/>neſs</hi>
+and <hi>Immorality</hi> ſo riſe among us; nay, that, God be<g ref="char:EOLhyphen"/>thanked, we
+have a <hi>Moſes to ſtand in the Gap;</hi> a Prince, whoſe endeavour to
+put a ſtop to this torrent of Wick<g ref="char:EOLhyphen"/>edneſs ready to overwhelm us, will, we
+hope, meet with its deſir'd succeſs; and the Zeal, he ſhews for <hi>God's
+Ho<g ref="char:EOLhyphen"/>nor,</hi> prevail with <hi>Heaven</hi> to avert thoſe Judgments, we have
+otherwiſe all the reaſon in the World to expect, becauſe we have ſo
+juſtly deſerv'd them.</p>
+            <p>Which all among you, who have any regard for the <hi>Glory</hi>
+and <hi>Service</hi> of Almighty God, and obſerve how <hi>both of them</hi>
+are ſlighted and deſpiſed, cannot but be ſufficiently ſenſible of:
+And that therefore, if God ſhould in Anger remove thoſe, who for the
+preſent <hi>ſtay his deſtroying Arm,</hi> nothing could be expected but
+una<g ref="char:EOLhyphen"/>voidable ruin and deſtruction.</p>
+            <p>How much therefore do all, that are duly apprehen<g ref="char:EOLhyphen"/>ſive of
+theſe things, ſtand engag'd to add themſelves to their number, that there
+may never ſail a Generation of Men, that by their Zeal to <hi>ſuppreſs
+Wickedneſs,</hi> and the powerful Oratory of their <hi>Prayers and Tears</hi>
+may inter<g ref="char:EOLhyphen"/>cept the <hi>Calamities</hi> that would otherwiſe befall us. Which
+brings me to</p>
+            <p>The third and laſt Thing I propoſed to your Conſi<g ref="char:EOLhyphen"/>deration,
+namely, how much it concerns us, both by our own <hi>Repentance and our beſt
+endeavour to reclaim others,</hi> to prevent thoſe <hi>Judgments,</hi> that
+will otherwiſe moſt certainly overtake us.</p>
+            <p>
+               <pb n="19" facs="tcp:61055:12"/>
+               <note place="margin">Reforma<g ref="char:EOLhyphen"/>tion.</note>Which
+happy <hi>End,</hi> if <hi>Claudian's Regis ad exemplum</hi> be true, there was
+never a clearer Proſpect of attaining, than at this preſent. We have
+already liv'd to ſee what Influence a <hi>Prince</hi>'s <hi>Life</hi> can
+have on his <hi>Subjects.</hi> I wiſh the <hi>Effects</hi> thereof were not
+ſtill too <hi>viſible.</hi> But the being convinced of this by our own
+Experience gives us ſtill the <hi>fairer</hi> hopes, that we may once again
+ſee the <hi>Power</hi> and <hi>Efficacy</hi> of ſo great an
+<hi>Example</hi> to <hi>nobler Purpoſes:</hi> That inſtead of that
+<hi>Luxury and Vo<g ref="char:EOLhyphen"/>luptuouſneſs,</hi> that has of late Years infected the
+Land, we may begin to be ſeaſoned with <hi>better Principles</hi> from an
+Imitation of our <hi>preſent King:</hi> Whoſe <hi>Example does</hi> not
+only ſhew it <hi>feaſible, and will,</hi> we hope, render it
+<hi>faſhionable,</hi> but his <hi>Reſolutions</hi> likewiſe to
+<hi>Countenance Piety and Vertue, and Diſcourage Wickedneſs and Vice,</hi>
+make it ſtill more <hi>eligible'</hi> to be <hi>good</hi> and
+<hi>virtuous</hi> upon the ſcore of Men's Intereſt in <hi>this</hi> World,
+which is but too generally purſued with the greateſt eagerneſs.</p>
+            <p>And that I may ſhew you what farther encourage<g ref="char:EOLhyphen"/>ment we have for
+the ſetting our hands to this deſirable <hi>Reformation,</hi> let me
+obſerve to you another Cauſe of the <hi>Looſeneſs and Immorality</hi>
+of the Age: Namely, the <hi>Principles</hi> of ſome <hi>late
+Philoſophers,</hi> greedily imbib'd by ſeveral, who thought it an
+Accompliſhment to have ſo much ſmattering that way, that they might be
+able to chatter in <hi>Philoſophical Terms;</hi> and the falling in of
+theſe <hi>Principles</hi> with the Gratification of their <hi>Luſts</hi>
+gave them ſtill the greater Reliſh. To which tho' we cannot but own the
+mighty Intereſt of <hi>Atheiſm and Irreligion:</hi> Yet, we ſee,
+<hi>Almighty God,</hi> that he might not <hi>leave himſelf without any
+Witneſs</hi> among the <hi>Inqui<g ref="char:EOLhyphen"/>rers</hi> into <hi>Nature,</hi> and that our
+<hi>Horizon</hi> might not be quite darkned by ſuch a black cloud as was
+over<g ref="char:EOLhyphen"/>ſpreading the Face of it, has rais'd ſome bright <hi>Lumi<g ref="char:EOLhyphen"/>naries,</hi>
+               <pb n="20" facs="tcp:61055:13"/>that have not only ſet <hi>Nature</hi> in a clearer
+Light, and made her <hi>glorifie</hi> and <hi>proclaim her Author;</hi> but
+ſome of them, as if they were deſirous to retreive the Credit of their
+<hi>Profeſſion,</hi> and make amends for the <hi>Diſ<g ref="char:EOLhyphen"/>honor, God and
+Religion</hi> have ſuffered by ſeveral, that were eminent in it, have
+likewiſe vindicated the Cauſe of <hi>Revealed Religion,</hi> not enduring
+to ſee the <hi>Holy Scriptures</hi> become the ſport and May-game of ſuch
+as would endeavour with their little Wit and Raillery to make them guilty of
+Nonſenſe and Contradiction. So that now, God be thanked, we find even the
+<hi>Phyſician's Religion,</hi> to be true and Orthodox, and that there are
+thoſe now among <hi>them,</hi> to whom the Doctrine of a <hi>Cru<g ref="char:EOLhyphen"/>cified
+Saviour</hi> does not appear, as of old <hi>to the Greeks,</hi> and of late to
+too many among us, <hi>Fooliſhneſs;</hi>
+               <note place="margin">1 Cor.
+1.23.</note> but as it is to thoſe, who are Chriſtians indeed, <hi>the
+Power and Wiſdom of God.</hi>
+            </p>
+            <p>Let us all reſolve unanimouſly to become <hi>Champions</hi> in
+this <hi>Cauſe.</hi> The <hi>Defence</hi> whereof muſt begin in the
+<hi>Reforming</hi> ourſelves, and taking care that no body be able to charge
+us with any thing that may diſcredit it. For there is certainly nothing that
+weakens the <hi>Cauſe</hi> of <hi>Religion</hi> more, or gives greater
+occaſion to the Ad<g ref="char:EOLhyphen"/>verſaries thereof to contemn and <hi>blaſpheme
+it,</hi> than to ſee ſuch, as would ſeem its moſt zealous
+Aſſertors, let their <hi>Practice</hi> run directly counter to the
+<hi>Precepts</hi> it enjoins: 
+<q>
+                  <note place="margin">
+                     <hi>Hor.</hi> de Art. Poet.</note>Nam
+dicentis erunt ſi factis abſona dicta,</q> If our Actions give our Tongnes
+the lye, 
+<q>Romani tollent Equites Pediteſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cachinnum.</q> We
+ſhall be ſo far from convincing any of the Reality of what we Profeſs,
+that we ſhall but make ourſelves the ſubject of their ſcorn and
+laughter. Whereas, if they ſee the force and Power of our <hi>Arguments</hi>
+in our <hi>Lives,</hi> 
+               <pb n="21" facs="tcp:61055:13"/>and that we do not offer with the
+<hi>Phariſees to lay ſuch Burthens on them, that we will not touch
+ourſelves,</hi> they will then judge us to be in earneſt, and look upon us
+as perſons, that <hi>believe</hi> what we <hi>affirm.</hi> Then may we boldly
+venture on that great Work of <hi>reforming others,</hi> and hope to gain
+Authority to what we ſay. Then would <hi>Wickedneſs</hi> not appear ſo
+bare-faced, nor <hi>Pro<g ref="char:EOLhyphen"/>faneneſs</hi> dare to ſupport it ſelf by that,
+which has of late uſurp'd the Reputation of Wit, Namely, the <hi>ſcof<g ref="char:EOLhyphen"/>fing
+and deriding all that is Virtuous and Sacred.</hi>
+            </p>
+            <p>If there be Men of good <hi>Natural Endowments,</hi> that employ
+their <hi>Parts</hi> this way, if there be ſuch, as are really witty and
+ingenious, that are withall very lewd and <hi>Atheiſtical,</hi> the more's
+the Pity. But, bleſſed be God, there are likewiſe ſuch
+<hi>Gentlemen</hi> among us, that are every way, <hi>at leaſt,</hi> as
+accompliſhed as they, wan<g ref="char:EOLhyphen"/>ting no Wit to recommend them to Converſation,
+who are alſo at the ſame time Friends to <hi>Religion,</hi> and highly
+concerned to ſee any endeavour to droll it out of countenance.</p>
+            <p>'Tis true, there is, for the moſt part, an <hi>innate
+Mo<g ref="char:EOLhyphen"/>deſty,</hi> that attends <hi>Goodneſs,</hi> which as this decays,
+uſu<g ref="char:EOLhyphen"/>ally wears off, ſo that <hi>Lewdneſs</hi> is generally ſtocked with
+Confidence enough, which, in the way of Raillery often paſſing for Wit,
+clearly t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iumphs over the other: And
+by this means the <hi>Modeſt Man</hi> is frequently diſ<g ref="char:EOLhyphen"/>couraged from
+venturing on the vindication of <hi>Goodneſs</hi> againſt ſo much
+<hi>Confidence</hi> and <hi>Aſſurance;</hi> eſpecially when perhaps there
+may be none elſe in Company to to ſide with him therein.</p>
+            <p>Now, I dare ſay, would ſuch <hi>Men of Parts,</hi> as have
+withall a due Senſe of <hi>Religion,</hi> labour to overcome this
+<hi>Diſcouragement,</hi> by plucking up a good Spirit, and joyntly agreeing
+among themſelves to make <hi>Atheiſm</hi> 
+               <pb n="22" facs="tcp:61055:14"/>and
+<hi>Profaneneſs</hi> ſo far the ſubject of their <hi>Mirth,</hi> as where
+ever they meet with it, to ridicule and expoſe it: Which, I doubt not but
+there thoſe that can do, with as much <hi>facetiouſneſs and
+pleaſantry,</hi> as they pre<g ref="char:EOLhyphen"/>tend to, who employ it againſt <hi>God and
+Religion:</hi> If this, I ſay, were but done as often as opportunities of<g ref="char:EOLhyphen"/>fer
+themſelves, it might ſoon be jeered into corners and made aſhamed to
+ſhew its head, and ſo by degrees in a little time be quite laugh'd out of
+the World.</p>
+            <p>We find there are few, if any, of theſe <hi>Atheiſtical
+Scoffers,</hi> that ſo often wound our Ears with their <hi>Pro<g ref="char:EOLhyphen"/>fane
+Jeſts,</hi> that, when they come to dye, can forbear crying out <hi>Lord be
+merciful:</hi> Who yet would look up<g ref="char:EOLhyphen"/>on us as very barbarous and ſevere,
+ſhould we then <hi>ſarcaſtically</hi> beſpeak them in the Language of
+<hi>Elijah to Baal's Prieſts: Cry aloud, for he is a God.
+Peradven<g ref="char:EOLhyphen"/>ture he ſleepeth and muſt be awaked.</hi>
+               <note place="margin">1 Kin.
+18.27.</note> And yet it would be no more than what they juſtly deſerve,
+who have all their Life time ſo abuſed him, as if they thought he were
+indeed a-ſleep and heard them not; or rather as if they did not believe there
+were any ſuch Being at all.</p>
+            <p>If we could by this or any other means ſuppreſs the growth of
+ſuch monſtrous <hi>Wickedneſs,</hi> we ſhould hope we were in a fair
+way to appeaſe the Wrath of a pro<g ref="char:EOLhyphen"/>voked God. but if ſomething more were not
+yet done, we ſhould not be altogether without fear, that <hi>his Anger is not
+quite turned away, but his hand is ſtretched out ſtill.</hi>
+               <note place="margin">Iſ. 9.12.</note>
+            </p>
+            <p>I have already told you, that the immediate occaſi<g ref="char:EOLhyphen"/>on of the
+<hi>Jews</hi> Overthrow was <hi>Zedekiah</hi>'s breaking the <hi>Oath</hi> he
+had taken to the <hi>King of Babylon.</hi> 
+               <note place="margin">Perjury.</note>And, unleſs ſeveral among us,
+that have <hi>Sworn Allegiance to his preſent Majeſty,</hi> who has
+hitherto ſo ſignally protected them, even in ſpite of their teeth, and
+their ungrate<g ref="char:EOLhyphen"/>ful <pb n="23" facs="tcp:61055:14"/>endeavours to ruin his Deſigns, forbear
+to trifle any longer with ſo <hi>Sacred a Thing</hi> as an <hi>Oath;</hi> we
+have cauſe to expect, that God may enter into Judgment with this
+<hi>Nation,</hi> even for that <hi>crying Sin.</hi> For <hi>Sediti<g ref="char:EOLhyphen"/>on</hi> and
+<hi>Treachery</hi> do naturally tend to the Ruin of the <hi>Innocent</hi> as
+well as of the <hi>Guilty;</hi> and ſo long as ſuch turbulent and unquiet
+Spirits reign among us, we can never be ſecure. How far the <hi>Innocent</hi>
+may ſuffer with the <hi>Guilty,</hi> is not eaſie to foreſee. However I
+wiſh they, who are this way Guilty, could prevail with themſelves to
+conſider what a dreadful hazard they run, and how certain a <hi>Judgment</hi>
+they are drawing on their own heads, from the Example of <hi>God</hi>'s
+terrible Vengeance on <hi>Ze<g ref="char:EOLhyphen"/>dekiah,</hi> whereof I have before given an
+Account; and whoſe <hi>Violation</hi> of his <hi>Oath God Almighty</hi> did
+eſteem as a <hi>breach of Covenant</hi> againſt himſelf. <hi>Seeing he
+deſpiſed the Oath by breaking the Covenant, when lo! he had gi<g ref="char:EOLhyphen"/>ven his
+Hand, and hath done all theſe things, he ſhall not eſcape. Therefore thus
+ſaith the Lord God, as I live, ſurely my Oath that he hath deſpiſed,
+and my Covenant that he hath broken, even it will I recompence upon his own
+head,</hi> Ezek. 17. 18. 19.</p>
+            <p>
+               <note place="margin">Diſobedi<g ref="char:EOLhyphen"/>ence.</note>And as for thoſe who
+ſtill refuſe to take an <hi>Oath</hi> to our <hi>gracious Sovereign,</hi>
+tho' he has been ſo long <hi>eſta<g ref="char:EOLhyphen"/>bliſhed in a quiet Poſſeſſion
+of the Throne;</hi> I ſhall only direct them to the <hi>Advice</hi> of
+thoſe that were in <hi>Capti<g ref="char:EOLhyphen"/>vity</hi> to their Brethren that were left
+behind at <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> Baruch 1.11.12. <hi>Pray for the liſe
+of</hi> Nebuchado<g ref="char:EOLhyphen"/>noſar <hi>King of</hi> Babylon, <hi>and for the life
+of</hi> Balthaſar <hi>his Son, that their days may be upon the Earth as the
+days of Heaven. And the Lord give us ſtrength and lighten our Eyes, and we
+ſhall live under the ſhadow of</hi> Nebu<g ref="char:EOLhyphen"/>chadonoſor <hi>King of</hi>
+Babylon, <hi>and under the ſhadow of</hi> Balthaſar, <hi>his Son, and we
+ſhall ſerve them many days, <pb n="24" facs="tcp:61055:15" rendition="simple:additions"/>and find favour in
+their ſight.</hi> Now, if they ſhould not only <hi>ſerve that King.</hi>
+but think themſelves obliged to <hi>pray for his long Life</hi> too, we have
+no Reaſon to ima<g ref="char:EOLhyphen"/>gine that they made the leaſt ſcruple of <hi>plighting
+their Faith</hi> to him, even tho' they could not look upon him as their
+<hi>Rightful</hi> King in theſe Men's <hi>Notion</hi> of that
+<hi>World.</hi>
+            </p>
+            <p>I ſhall add no more with reſpect to the many other Sins I
+mention'd, whereby we have incurr'd the Wrath of <hi>Almighty God:</hi> but
+ſhall beſeech him to enlighen all our Eyes that we may <hi>ſee in this
+our day the Things that belong to our Peace:</hi>
+               <note place="margin">Luke
+19.42.</note> And conſider, that, if ever we hope to become a flouriſhing
+People, it muſt be <hi>by fearing the Lord and the King, and not medling with
+thoſe, that are given to change:</hi>
+               <note place="margin">Pro. 4.21.</note>
+               <hi>By not ſwearing deceit<g ref="char:EOLhyphen"/>fully:</hi>
+               <note place="margin">Pſ. 24.4.</note>
+By being zealous for the Honor of <hi>God,</hi> and <hi>of the Son of God our
+Saviour;</hi> promoting the <hi>Intereſt</hi> and <hi>Power</hi> of
+<hi>Religion</hi> in our <hi>ſeveral Stations,</hi> by our <hi>Ex<g ref="char:EOLhyphen"/>ample,</hi>
+by our <hi>Authority,</hi> by our <hi>friendly Advice and Admonition,</hi> and
+ſweetly inſinuating it into the Minds of others in the moſt engaging and
+winning manner we can think of.</p>
+            <p>In a word, it muſt be by endeavouring with joynt hands and heart
+to advance the <hi>Honor</hi> and <hi>Welfare</hi> of our <hi>Nation,</hi> by
+working <hi>Righteouſneſs</hi> and following after <hi>Peace;</hi> which
+the Lord has promis'd by his Prophet ſhall be the Product thereof. <hi>The
+Work of Righteouſneſs,</hi> ſaith he, <hi>ſhall be Peace; and the
+effect of Righteouſneſs Quietneſs and Aſſurance for ever.</hi>
+               <note place="margin">Iſ. 32.17.</note> It is indeed this alone that can <hi>exalt a
+Nation; but Sin,</hi> as it is <hi>the Reproach,</hi>
+               <note place="margin">Prov.
+14.34.</note> ſo it will be the Ruin <hi>of any People.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
